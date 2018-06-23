@@ -11,6 +11,6 @@ dependencies:
   rate_limiter:
     github: z64/rate_limiter
 
-crystal: 0.24.1
+crystal: 0.25.0
 
 license: MIT
